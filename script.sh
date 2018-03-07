@@ -8,4 +8,7 @@ echo "IP      : $(hostname -i) " >> output.log
 echo "User    : $(whoami) "  >> output.log
 echo "Date    : $(date) i" >> output.log
 
+
+echo " updated..."
+
 echo "Thanks "
